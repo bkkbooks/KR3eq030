@@ -1,0 +1,443 @@
+canonical_identifier: bkk:krp/KR3eq030/v1
+canonical_location: https://kanripo.org/bkk/KR3eq030/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 履霜集
+  identifiers:
+    krp: KR3eq030
+  tags:
+    kr-categories: KR3eq
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eq030.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eq030_000.yaml, hash: 'sha256:2aeafb7f36a757362e97f0e59dd3b353b68c98cdc8e265b7c7cb1c5536bc76bf'}
+  - {seq: 1, filename: KR3eq030_001.yaml, hash: 'sha256:e1a47b0ac80c076cb854cf589ab0111fe65009150cb583c22a4c9233fb0fd0c1'}
+  - {seq: 2, filename: KR3eq030_002.yaml, hash: 'sha256:b476af0e200656ac2b7b958673c5150489fc7b488ed113b1e851fdc5081a7327'}
+  - {seq: 3, filename: KR3eq030_003.yaml, hash: 'sha256:e1ec35a71b1cffd0071ea224a7828e4d9ee87b4f1cc1178610ba16b142d8976c'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eq030_000.markers.yaml, hash: 'sha256:c8a286dfb52e2fa03b87873d5ca1dfdf710f35ba901a67980da5f3139f410a75'}
+  - {seq: 1, role: markers, filename: assets/KR3eq030_001.markers.yaml, hash: 'sha256:78c75372170158b11c380a467e13b5833d1e8b06dbd42c00a06e3ea14f1fc8c5'}
+  - {seq: 2, role: markers, filename: assets/KR3eq030_002.markers.yaml, hash: 'sha256:678cd2f380702c3152da4f65415c57e512cbb70e96e741c255bfc8d662f14253'}
+  - {seq: 3, role: markers, filename: assets/KR3eq030_003.markers.yaml, hash: 'sha256:e7eb9c73a5224abd5165c0f2295ca612792d384ce8288059dc5239ca9d730666'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eq030_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 278
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eq030_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 6694
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eq030_jc_001-d3d2
+    span:
+    - body
+    - 2
+    - 124
+  label: 男子虛損癆症
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq030_jc_001-d3d3
+    span:
+    - body
+    - 124
+    - 223
+  label: 婦人胎前產後
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq030_jc_001-d3d4
+    span:
+    - body
+    - 223
+    - 824
+  label: 虛損癆症總論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq030_jc_001-d3d5
+    span:
+    - body
+    - 824
+    - 1059
+  label: 陰虛陽虛論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq030_jc_001-d3d6
+    span:
+    - body
+    - 1059
+    - 1164
+  label: 陰虛似陽論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq030_jc_001-d3d7
+    span:
+    - body
+    - 1164
+    - 1246
+  label: 陽虛似陰論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq030_jc_001-d3d8
+    span:
+    - body
+    - 1246
+    - 1522
+  label: 陰虛發熱論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq030_jc_001-d3d9
+    span:
+    - body
+    - 1522
+    - 1850
+  label: 滋陰降火論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq030_jc_001-d3d10
+    span:
+    - body
+    - 1850
+    - 2368
+  label: 先天真水論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq030_jc_001-d3d11
+    span:
+    - body
+    - 2368
+    - 2762
+  label: 先天相火論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq030_jc_001-d3d12
+    span:
+    - body
+    - 2762
+    - 3655
+  label: 後天脾胃論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq030_jc_001-d3d13
+    span:
+    - body
+    - 3655
+    - 4251
+  label: 虛癆吐痰論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq030_jc_001-d3d14
+    span:
+    - body
+    - 4251
+    - 4794
+  label: 虛癆吐血論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq030_jc_001-d3d15
+    span:
+    - body
+    - 4794
+    - 5248
+  label: 虛癆咳嗽論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq030_jc_001-d3d16
+    span:
+    - body
+    - 5248
+    - 5797
+  label: 虛癆發喘論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eq030_jc_001-d3d17
+    span:
+    - body
+    - 5797
+    - 6694
+  label: 虛癆消渴論
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq030_jc_002-d4.h1s1
+    span:
+    - body
+    - 0
+    - 6884
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3eq030_jc_002-d4d2
+    span:
+    - body
+    - 2
+    - 1414
+  label: 調經論
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq030_jc_002-d4d3
+    span:
+    - body
+    - 1414
+    - 2104
+  label: 通經論
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq030_jc_002-d4d4
+    span:
+    - body
+    - 2104
+    - 2518
+  label: 止血論
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq030_jc_002-d4d5
+    span:
+    - body
+    - 2518
+    - 2901
+  label: 赤白帶下論
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq030_jc_002-d4d6
+    span:
+    - body
+    - 2901
+    - 3879
+  label: 保胎論
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq030_jc_002-d4d7
+    span:
+    - body
+    - 3879
+    - 5074
+  label: 救產論
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq030_jc_002-d4d8
+    span:
+    - body
+    - 5074
+    - 5831
+  label: 小產論
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq030_jc_002-d4d9
+    span:
+    - body
+    - 5831
+    - 6094
+  label: 產後類中風論
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq030_jc_002-d4d10
+    span:
+    - body
+    - 6094
+    - 6362
+  label: 產後真中風論
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eq030_jc_002-d4d11
+    span:
+    - body
+    - 6362
+    - 6884
+  label: 大補論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq030_jc_003-d5.h1s1
+    span:
+    - body
+    - 0
+    - 1529
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3eq030_jc_003-d5d2
+    span:
+    - body
+    - 2
+    - 98
+  label: 痘瘡發熱
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq030_jc_003-d5d3
+    span:
+    - body
+    - 98
+    - 120
+  label: 點分輕重
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq030_jc_003-d5d4
+    span:
+    - body
+    - 120
+    - 171
+  label: 痘分經絡
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq030_jc_003-d5d5
+    span:
+    - body
+    - 171
+    - 276
+  label: 陽症陰症
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq030_jc_003-d5d6
+    span:
+    - body
+    - 276
+    - 338
+  label: 表裡虛實
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq030_jc_003-d5d7
+    span:
+    - body
+    - 338
+    - 390
+  label: 輕變重論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq030_jc_003-d5d8
+    span:
+    - body
+    - 390
+    - 413
+  label: 重變輕論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq030_jc_003-d5d9
+    span:
+    - body
+    - 413
+    - 501
+  label: 認痘疔訣
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq030_jc_003-d5d10
+    span:
+    - body
+    - 501
+    - 1250
+  label: 逐日附方
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq030_jc_003-d5d11
+    span:
+    - body
+    - 1250
+    - 1329
+  label: 陰虛泄瀉
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eq030_jc_003-d5d12
+    span:
+    - body
+    - 1329
+    - 1529
+  label: 陽虛泄瀉
+  type: section
+  level: 2
+hash: sha256:8ce610afcb58cf835c298e06028760ed70fb070ebbf95b57cbc544b4a15aed60
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
