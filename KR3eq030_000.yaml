@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR3eq030/jc/v1/juan/0
 seq: 0
-front:
+body:
   text: 序蓋醫者意也借望聞問切四者以一己之心理而揣度夫病理援五行生剋之標榜而定其所傷何部以形式而論似屬談空細繹之固有至理在焉醫學者實理學也即古聖所謂格致學也憑一人有限之心理而揣摩夫無限之病理淺試之未能盡中夫病竅故自軒岐以來四千餘年名醫輩出著作汗牛非偏於涼清即偏於溫補偶有得竅之方法或終身祕而不宣或傳授不肯盡言而自祕私心不死者衆故諺云醫者後世不昌是作也不敢云無所偏謬實系家傳三世臨症確驗雖屬一得之愚洵堪自信本邑王鶴侶先生亦醫友也屢勸付梓以廣流傳爰詳加校定以便付印並擬數言以志緣起於簡端云清嘉慶十九年八月上旬識於五蓮山之望海書樓山東諸城縣臧達德公三氏自識時年六十有五歲
   hash: sha256:d4dbb2bb7179881a1a78daa8ced59f30464e230eae2f12bbabd712b48dec40fb
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR3eq030_jc_000-d2.h1s1}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 履霜集
   edition:
@@ -15,4 +12,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3eq030.xml
-hash: sha256:2aeafb7f36a757362e97f0e59dd3b353b68c98cdc8e265b7c7cb1c5536bc76bf
+hash: sha256:0da7ed118baf89a1661816a310b62067c40aaf44b0e7164e60feba31efe6ac19
